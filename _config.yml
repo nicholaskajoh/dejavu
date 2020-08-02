@@ -1,0 +1,22 @@
+# Setup
+title:               Déjà vu
+tagline:             L'amour est une arnaque
+description:         L'histoire de ma vie amoureuse racontée en français.
+url:                 https://dejavu.terna.dev
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Nicholas Kajoh
+  url:               https://terna.dev
+  email:             hi@terna.dev
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
